@@ -1,0 +1,19 @@
+A. Purpose
+    Book will be saved under categories. There will be CRUD structure for the both books and categories.
+
+B. Work Order
+    1. Dependencies
+        - json-server
+        - axios
+        - redux, react-redux
+        - react-router-dom
+        - Bootstrap
+
+    2. Creating data and json-server structure
+    3. Creating redux structure
+        - Decide the states to be in the store (bookState, categoryState)
+    4. Creating router structure
+    5. Filling redux states while application is starting
+    6. AddBook:
+        - Get book information from the user and save by sending to the server.
+        - Information must be saved to the "STORE" after saving to the server.

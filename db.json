@@ -1,0 +1,71 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "war and peace",
+      "author": "leo tolstoy",
+      "publisher": "the russian messenger",
+      "price": "70",
+      "isbn": "9789123564879",
+      "categoryId": "2"
+    },
+    {
+      "id": "2",
+      "title": "harry potter",
+      "author": "j. k. rowling",
+      "publisher": "bloomsbury",
+      "price": 75,
+      "isbn": "9789123123879",
+      "categoryId": "3"
+    },
+    {
+      "id": "3",
+      "title": "the hobbit",
+      "author": "j. r. r. tolkien",
+      "publisher": "scholastic press",
+      "price": 80,
+      "isbn": "9789876564879",
+      "categoryId": "4"
+    },
+    {
+      "id": "1679298740124",
+      "title": "1984",
+      "author": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "price": "70",
+      "isbn": "7887687687",
+      "categoryId": "1"
+    },
+    {
+      "id": "1679651538678",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "publisher": "Watersone",
+      "price": "75",
+      "isbn": "13213321321",
+      "categoryId": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "novel"
+    },
+    {
+      "id": "2",
+      "name": "story"
+    },
+    {
+      "id": "3",
+      "name": "fantasy"
+    },
+    {
+      "id": "4",
+      "name": "adventure fiction"
+    },
+    {
+      "id": "5",
+      "name": "mystery"
+    }
+  ]
+}
