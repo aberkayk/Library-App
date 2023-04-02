@@ -20,12 +20,12 @@
     },
     {
       "id": "3",
-      "title": "the hobbit",
+      "title": "the hobbit 123",
       "author": "j. r. r. tolkien",
       "publisher": "scholastic press",
-      "price": 80,
+      "price": "89",
       "isbn": "9789876564879",
-      "categoryId": "4"
+      "categoryId": "1"
     },
     {
       "id": "1679298740124",
@@ -66,6 +66,10 @@
     {
       "id": "5",
       "name": "mystery"
+    },
+    {
+      "id": "1680436070057",
+      "name": "12345asd"
     }
   ]
 }
